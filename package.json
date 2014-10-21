@@ -1,0 +1,32 @@
+{
+  "name": "sketch",
+  "version": "0.0.0",
+  "description": "Chemical Sketcher for Canvas ",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^1.9.2"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fvanclef/sketch.git"
+  },
+  "keywords": [
+    "sketcher"
+  ],
+  "author": "Frederic Vanclef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fvanclef/sketch/issues"
+  },
+  "homepage": "https://github.com/fvanclef/sketch"
+}
